@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 
-// create a mutable variable which willnot re-render the components
+// create a mutable variable which will not re-render the components
 //to access the dom elments directly
 
 const UseRefHook = () => {
